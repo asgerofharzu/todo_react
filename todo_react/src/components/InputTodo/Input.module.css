@@ -1,0 +1,86 @@
+
+.h1 {
+    color: #000;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.center {
+    margin-top: 10px;
+    margin-left: 250px;
+    border: solid 1px #eee;
+    border-radius: 10px;
+    width: 70%;
+    height: 150px;
+}
+
+.inputDiv {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+/* !.logo{
+        mar
+    }*/
+
+.input {
+    width: 870px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 6px;
+    border: 0.05px solid #eee;
+    border : none;
+    margin-left: 10px;
+    outline: none;
+}
+
+.btn {
+    width: 95%;
+    height: 43px;
+    margin-left: 30px;
+    margin-top: 15px;
+    background-color: #0275d8;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+}
+
+.btnGroup {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.btn-primary {
+    margin-left: 10px;
+}
+
+.listItem {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px
+}
+
+.orderedList {
+    list-style-type: none;
+}
+
+.list{
+
+    width: 800px;
+    height: 50px;
+    border: 1px solid #eee;
+    border-radius:5px;
+    padding: 15px;
+    margin-top:10px;
+}
+
+.dangers{
+    display: flex;
+    justify-content:center;
+    margin-top:40px;
+}
+.dangers>button{
+    width: 350px;
+}

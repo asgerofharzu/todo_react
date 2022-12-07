@@ -1,0 +1,21 @@
+.input-icon-1{
+    font-size:25px;
+    /* z-index: 9;  */
+    position: relative;
+    left: 660px;
+    bottom:36px;
+    cursor: pointer;
+    padding:10px;
+    color:green;
+}
+
+.input-icon-2{
+    font-size:25px;
+    /* z-index: 9;  */
+    position: relative;
+    left: 690px;
+    bottom:36px;
+    cursor: pointer;
+    padding:10px;
+    color: red;
+}
